@@ -31,6 +31,3 @@
 
 ### Contribution
 - Details of contributors can be found here [Contributors](https://github.com/akifkartal03/sandwich-website/graphs/contributors).
-<p align="center">
-  <img width="600" height="100" src="https://i.ibb.co/tc9vybv/100.png">
-</p>
